@@ -1,0 +1,5 @@
+Ce site web est spécialisé essentiellement dans la réparation et la vente de voitures d'occasion. On a commencé par la création d'un compte à travers un login qui permet d enregistrer le mot de passe et l'adresse email dans une base de données. A travers un navbar, on a présenté notre site: l'accueil permet de présenter ce garage, la rubrique "nos services" présente les divers services proposés par ce garage, la rubrique "nos voitures" affiche les différentes voitures à vendre, "contactez-nous" permet de remplir un formulaire et envoyer un message au responsable et le bouton "connexion" permet au responsable de se connecter et aux visiteurs de créer un compte .
+
+![DiagrammeSequenceLogin](https://github.com/MounaMokhtar/MounaNewProject/assets/148330727/cd4b2b09-8fc4-45ce-882a-aaf9eabffdde)
+![CasUtilisation](https://github.com/MounaMokhtar/MounaNewProject/assets/148330727/fbf2f40a-ec55-4709-aa25-0ea8b261f1ff)
+![diagrammeDeClasse](https://github.com/MounaMokhtar/MounaNewProject/assets/148330727/bb8f5ab7-8d4d-43af-8921-7ddf6f888960)
